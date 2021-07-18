@@ -24,6 +24,7 @@
 		5345E43526A3DD3900B913F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5345E43826A3DD3900B913F3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5345E43A26A3DD3900B913F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5345E44026A3DF1E00B913F3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				5345E42E26A3DD3700B913F3 /* SceneDelegate.swift */,
 				5345E43026A3DD3700B913F3 /* ViewController.swift */,
 				5345E43226A3DD3700B913F3 /* Main.storyboard */,
+				5345E44026A3DF1E00B913F3 /* README.md */,
 				5345E43526A3DD3900B913F3 /* Assets.xcassets */,
 				5345E43726A3DD3900B913F3 /* LaunchScreen.storyboard */,
 				5345E43A26A3DD3900B913F3 /* Info.plist */,
